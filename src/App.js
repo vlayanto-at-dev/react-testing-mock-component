@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import SampleComponent from './components/sample-component/SampleComponent'
+import { SampleComponent } from './components/sample-component/SampleComponent'
 
 function App() {
   const actionHandler1 = (arg) => {
